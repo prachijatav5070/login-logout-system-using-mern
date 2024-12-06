@@ -1,0 +1,17 @@
+
+.footer{
+    background-color:  lightgray;
+    height: 100px;
+    padding:  30px;
+}
+.container_top{
+    display: flex;
+    justify-content: space-between;
+}
+#adminDashboard{
+    padding: 20px;
+    text-align: right;
+    background-color: lightblue;
+
+
+}
